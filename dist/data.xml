@@ -1,0 +1,47 @@
+<global>
+<CurrentWeather>
+  <Location>Santa Maria Aero-Porto , Brazil (SBSM) 29-43S 053-42W</Location>
+  <Time>Jun 29, 2012 - 06:00 AM EDT / 2012.06.29 1000 UTC</Time>
+  <Wind> from the NW (320 degrees) at 14 MPH (12 KT) gusting to 25 MPH (22 KT):0</Wind>
+  <Visibility> greater than 7 mile(s):0</Visibility>
+  <Temperature> 73 F (23 C)</Temperature>
+  <DewPoint> 55 F (13 C)</DewPoint>
+  <RelativeHumidity> 53%</RelativeHumidity>
+  <Pressure> 29.88 in. Hg (1012 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>
+<NewDataSet>
+  <Table>
+    <GMT>-3</GMT>
+    <Name>Brazil</Name>
+  </Table>
+  <Table>
+    <GMT>-3</GMT>
+    <Name>Brazil</Name>
+  </Table>
+</NewDataSet>
+<NewDataSet>
+  <Table>
+    <Name>Brazil</Name>
+    <CountryCode>br</CountryCode>
+    <Currency>Cruzeiro</Currency>
+    <CurrencyCode>BRC</CurrencyCode>
+  </Table>
+  <Table>
+    <Name>Brazil</Name>
+    <CountryCode>br</CountryCode>
+    <Currency>Cruzeiro</Currency>
+    <CurrencyCode>BRC</CurrencyCode>
+  </Table>
+</NewDataSet>
+<NewDataSet>
+  <Table>
+    <code>55</code>
+    <name>Brazil</name>
+  </Table>
+  <Table>
+    <code>55</code>
+    <name>Brazil</name>
+  </Table>
+</NewDataSet>
+</global>

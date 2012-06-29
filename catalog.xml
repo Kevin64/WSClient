@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.webservicex.net/globalweather.asmx?WSDL" uri="xml-resources/web-service-references/globalweather/wsdl/www.webservicex.net/globalweather.asmx.wsdl"/>
+    <system systemId="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL" uri="xml-resources/web-service-references/CountryInfoService/wsdl/webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso.wsdl"/>
+    <system systemId="http://www.ripedev.com/webservices/ZipCode.asmx?WSDL" uri="xml-resources/web-service-references/ZipCode/wsdl/ripedevelopment.com.wsdl"/>
+    <system systemId="http://www.webservicex.net/country.asmx?WSDL" uri="xml-resources/web-service-references/country/wsdl/www.webservicex.net/country.asmx.wsdl"/>
+</catalog>

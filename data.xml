@@ -1,0 +1,49 @@
+<global>
+<CurrentWeather>
+  <Location>KENDALL-TAMIAMI EXEC AIRPORT , FL, United States (KTMB) 25-39N 080-26W 2M</Location>
+  <Time>Jun 28, 2012 - 10:53 PM EDT / 2012.06.29 0253 UTC</Time>
+  <Wind> Calm:0</Wind>
+  <Visibility> 10 mile(s):0</Visibility>
+  <SkyConditions> partly cloudy</SkyConditions>
+  <Temperature> 79.0 F (26.1 C)</Temperature>
+  <DewPoint> 72.0 F (22.2 C)</DewPoint>
+  <RelativeHumidity> 79%</RelativeHumidity>
+  <Pressure> 30.06 in. Hg (1017 hPa)</Pressure>
+  <PressureTendency> 0.02 inches (0.8 hPa) higher than three hours ago</PressureTendency>
+  <Status>Success</Status>
+</CurrentWeather>
+<NewDataSet>
+  <Table>
+    <GMT>-5-11</GMT>
+    <Name>United States</Name>
+  </Table>
+  <Table>
+    <GMT>-5-11</GMT>
+    <Name>United States</Name>
+  </Table>
+</NewDataSet>
+<NewDataSet>
+  <Table>
+    <Name>United States</Name>
+    <CountryCode>us</CountryCode>
+    <Currency>Dollar</Currency>
+    <CurrencyCode>USD</CurrencyCode>
+  </Table>
+  <Table>
+    <Name>United States</Name>
+    <CountryCode>us</CountryCode>
+    <Currency>Dollar</Currency>
+    <CurrencyCode>USD</CurrencyCode>
+  </Table>
+</NewDataSet>
+<NewDataSet>
+  <Table>
+    <code>1</code>
+    <name>United States</name>
+  </Table>
+  <Table>
+    <code>1</code>
+    <name>United States</name>
+  </Table>
+</NewDataSet>
+</global>
