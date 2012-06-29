@@ -9,7 +9,7 @@ public class WSClient {
     private String city, country, weather, currency;
     
     public WSClient() {
-        
+        int a;
     }
 
     public String getCity() {
