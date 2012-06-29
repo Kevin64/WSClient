@@ -7,6 +7,7 @@ package wsclient;
 public class WSClient {
     
     private String city, country, weather, currency;
+    public int git;
     
     public WSClient() {
 
